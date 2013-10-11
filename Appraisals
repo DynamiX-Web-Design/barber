@@ -17,3 +17,7 @@ appraise "ember-rc7" do
   # Uses handlebars 1.0.0
   gem "ember-source", "1.0.0.rc7"
 end
+
+appraise "ember-1.0" do
+	gem "ember-source", "1.0.0"
+end
